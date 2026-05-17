@@ -7,7 +7,6 @@ import { usePathname, useParams } from "next/navigation";
 
 import {
   LayoutDashboard,
-  BookOpen,
   FolderKanban,
   Users,
   MessageCircle,
